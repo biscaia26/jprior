@@ -1252,7 +1252,7 @@
         "total_quant_motvrej_atual": 0,
         "total_taxa_motvrej_atual": 0,
         "Turno_Desc": "Turno Temporário",
-        "inicio_turno": "2024-08-09T16:42:36.137Z",
+        "inicio_turno": "2024-08-09T16:47:36.160Z",
         "TotalCicloGlobal": null,
         "PercentagemCicloGlobal": null,
         "PercentagemCicloGlobal_1": null,
@@ -1354,7 +1354,7 @@
         "total_quant_motvrej_atual": 0,
         "total_taxa_motvrej_atual": 0,
         "Turno_Desc": "Turno Temporário",
-        "inicio_turno": "2024-08-09T16:42:36.137Z",
+        "inicio_turno": "2024-08-09T16:47:36.160Z",
         "TotalCicloGlobal": null,
         "PercentagemCicloGlobal": null,
         "PercentagemCicloGlobal_1": null,
@@ -1456,7 +1456,7 @@
         "total_quant_motvrej_atual": 0,
         "total_taxa_motvrej_atual": 0,
         "Turno_Desc": "Turno Temporário",
-        "inicio_turno": "2024-08-09T16:42:36.137Z",
+        "inicio_turno": "2024-08-09T16:47:36.160Z",
         "TotalCicloGlobal": null,
         "PercentagemCicloGlobal": null,
         "PercentagemCicloGlobal_1": null,
@@ -1558,7 +1558,7 @@
         "total_quant_motvrej_atual": 0,
         "total_taxa_motvrej_atual": 0,
         "Turno_Desc": "Turno Temporário",
-        "inicio_turno": "2024-08-09T16:42:36.137Z",
+        "inicio_turno": "2024-08-09T16:47:36.160Z",
         "TotalCicloGlobal": null,
         "PercentagemCicloGlobal": null,
         "PercentagemCicloGlobal_1": null,
@@ -8220,7 +8220,7 @@
         "performanceOEEMaq": null,
         "maquina1": "MI18 - 18 Krauss Maffei 80ton",
         "ciclo_prev_PorMaquina": 23.9,
-        "ciclo_real_PorMaquina": 934,
+        "ciclo_real_PorMaquina": 934.1,
         "eficienciaciclo_PorMaquina": 2.6,
         "maquina2": null,
         "artigoREJporMAQ": null,
@@ -17743,9 +17743,9 @@
         "TaxaTopParagensAtual": null,
         "descTurno": "Manhã",
         "produtividadeOEE": "109,16",
-        "disponibilidadeOEE": "91,97",
+        "disponibilidadeOEE": "91,43",
         "qualidadeOEE": "100,00",
-        "taxaOEE": 100.4
+        "taxaOEE": 99.8
     },
     {
         "Rejected": null,
@@ -17844,10 +17844,10 @@
         "taxaRejAFIAtual": null,
         "TaxaTopParagensAtual": null,
         "descTurno": "Noite",
-        "produtividadeOEE": "76,28",
-        "disponibilidadeOEE": "72,27",
+        "produtividadeOEE": "77,37",
+        "disponibilidadeOEE": "78,68",
         "qualidadeOEE": "97,86",
-        "taxaOEE": 54
+        "taxaOEE": 59.6
     },
     {
         "Rejected": null,
@@ -17947,9 +17947,9 @@
         "TaxaTopParagensAtual": null,
         "descTurno": "Tarde",
         "produtividadeOEE": "67,80",
-        "disponibilidadeOEE": "66,40",
+        "disponibilidadeOEE": "66,56",
         "qualidadeOEE": "94,84",
-        "taxaOEE": 42.7
+        "taxaOEE": 42.8
     },
     {
         "Rejected": null,
@@ -18049,7 +18049,7 @@
         "TaxaTopParagensAtual": null,
         "descTurno": "Global",
         "produtividadeOEE": "56,62",
-        "disponibilidadeOEE": "55,64",
+        "disponibilidadeOEE": "55,68",
         "qualidadeOEE": "97,29",
         "taxaOEE": 30.7
     }
